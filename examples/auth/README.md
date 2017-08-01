@@ -16,7 +16,7 @@ import (
 	"strings"
 
 	"github.com/buaazp/fasthttprouter"
-	"github.com/oschwald/fasthttp"
+	"github.com/erikdubbelboer/fasthttp"
 )
 
 // basicAuth returns the username and password provided in the request's

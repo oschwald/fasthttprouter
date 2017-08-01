@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/oschwald/fasthttp"
+	"github.com/erikdubbelboer/fasthttp"
 )
 
 func printChildren(n *node, prefix string) {

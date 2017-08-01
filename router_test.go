@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/oschwald/fasthttp"
+	"github.com/erikdubbelboer/fasthttp"
 )
 
 func TestRouter(t *testing.T) {

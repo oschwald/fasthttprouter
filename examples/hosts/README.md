@@ -16,7 +16,7 @@ import (
 	"log"
 
 	"github.com/buaazp/fasthttprouter"
-	"github.com/oschwald/fasthttp"
+	"github.com/erikdubbelboer/fasthttp"
 )
 
 // Index is the index handler
